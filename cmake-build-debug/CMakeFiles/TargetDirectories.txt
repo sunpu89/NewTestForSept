@@ -1,0 +1,3 @@
+/tmp/NewTestForSept/cmake-build-debug/CMakeFiles/NewTestForSept.dir
+/tmp/NewTestForSept/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/NewTestForSept/cmake-build-debug/CMakeFiles/rebuild_cache.dir
